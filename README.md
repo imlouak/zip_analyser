@@ -62,7 +62,7 @@ Downloading this app is now simpler than ever.
 
 ## ✨ Features Checklist
 
--   [x] 🖥️ **Cross-Platform:** Available for Windows, macOS, and Linux via the launcher.
+-   [x] 🖥️ **Platforms:** Available for Windows.
 -   [x] 📂 **Zip Import:** Load `.zip` files via button or drag-and-drop.
 -   [x] 🌲 **Tree View:** Displays the hierarchical file and folder structure inside the zip.
 -   [x] 📄 **Content View:** Shows content of text files and previews of images.
@@ -80,7 +80,7 @@ Downloading this app is now simpler than ever.
 | --------------------- | --------------------------------------------- |
 | **Primary Use Case**  | AI Prompt Generation & Code Review            |
 | **Data Storage**      | 100% Local (No upload)                        |
-| **Supported Platforms** | Windows, macOS, Linux (via Launcher)          |
+| **Supported Platforms** | Windows         |
 | **Updates**           | Automatic via XutronCore Launcher             |
 | **License**           | [View License](https://github.com/imlouak/zip_analyser/blob/main/LICENSE) |
 
