@@ -12,7 +12,7 @@
   <a href="https://highlightjs.org/"><img src="https://img.shields.io/badge/highlight.js-11.11.1-yellow?style=for-the-badge&logo=highlight.js&logoColor=black" alt="highlight.js"></a>
   <a href="https://sweetalert2.github.io/"><img src="https://img.shields.io/badge/SweetAlert2-11.4.8-orange?style=for-the-badge" alt="SweetAlert2"></a>
   <!-- License Badge -->
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://github.com/imlouak/zip_analyser/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge" alt="License: CC BY-NC-SA 4.0"></a>
 </p>
 
 > A powerful desktop utility designed to streamline your workflow with AI models. Zip Analyser instantly processes `.zip` archives, combining all text-based files into a single, clean output. Part of the **XutronCore** application suite.
@@ -21,7 +21,7 @@
 
 ## ⚠️ Important: Requires XutronCore Launcher
 
-This application is now managed exclusively through the **[XutronCore Launcher](https://github.com/iamplayerexe/xutroncore/releases/latest)**.
+This application is now managed exclusively through the **[XutronCore Launcher](https://github.com/imlouak/xutroncore/releases/latest)**.
 
 The launcher handles the installation, updates, and launching of this app and all other official XutronCore tools. This ensures you always have the latest, most secure version without needing to manually download files.
 
@@ -31,7 +31,7 @@ The launcher handles the installation, updates, and launching of this app and al
 
 Downloading this app is now simpler than ever.
 
-1.  **Download the Launcher:** Go to the **[XutronCore Launcher Releases Page](https://github.com/iamplayerexe/xutroncore/releases/latest)** and download the installer for your operating system (Windows, macOS, or Linux).
+1.  **Download the Launcher:** Go to the **[XutronCore Launcher Releases Page](https://github.com/imlouak/xutroncore/releases/latest)** and download the installer for your operating system (Windows, macOS, or Linux).
 
 2.  **Install & Run the Launcher:** Run the installer and open the XutronCore Launcher application.
 
@@ -82,7 +82,7 @@ Downloading this app is now simpler than ever.
 | **Data Storage**      | 100% Local (No upload)                        |
 | **Supported Platforms** | Windows, macOS, Linux (via Launcher)          |
 | **Updates**           | Automatic via XutronCore Launcher             |
-| **License**           | Open Source (MIT)                             |
+| **License**           | [View License](https://github.com/imlouak/zip_analyser/blob/main/LICENSE) |
 
 ---
 
@@ -115,7 +115,7 @@ Downloading this app is now simpler than ever.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-➡️ Please check the [**Issues Page**](https://github.com/iamplayerexe/zip_analyser/issues).
+➡️ Please check the [**Issues Page**](https://github.com/imlouak/zip_analyser/issues).
 
 Want to contribute code? (Requires Node.js & npm)
 
@@ -127,10 +127,10 @@ Want to contribute code? (Requires Node.js & npm)
 6.  **Test Locally** (`npm start`).
 7.  **Commit** (`git commit -m 'feat: Add some amazing feature'`).
 8.  **Push** (`git push origin feature/YourAmazingFeature`).
-9.  **Open a Pull Request** back to `iamplayerexe/zip_analyser:main`.
+9.  **Open a Pull Request** back to `imlouak/zip_analyser:main`.
 
 ---
 
 ## 📜 License
 
-This project is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+Ce projet est distribué sous la licence spécifiée dans le fichier [LICENSE](https://github.com/imlouak/zip_analyser/blob/main/LICENSE).
