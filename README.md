@@ -31,7 +31,7 @@ The launcher handles the installation, updates, and launching of this app and al
 
 Downloading this app is now simpler than ever.
 
-1.  **Download the Launcher:** Go to the **[XutronCore Launcher Releases Page](https://github.com/imlouak/xutroncore/releases/latest)** and download the installer for your operating system (Windows, macOS, or Linux).
+1.  **Download the Launcher:** Go to the **[XutronCore Launcher Releases Page](https://github.com/imlouak/xutroncore/releases/latest)** and download the installer for Windows.
 
 2.  **Install & Run the Launcher:** Run the installer and open the XutronCore Launcher application.
 
